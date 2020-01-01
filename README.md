@@ -8,7 +8,7 @@ have experiencing fast growing community members and more and more university an
 
 ------------Code detail ---------------------------------------------------------------------------------
 
-Both [calc.py] and [fuc.py] are include some processess functions, [Pmodel.py] is the P-model whole workflow and ChaMoonMoon capsule it as a fuction, so you can use this function as an isolate equation in any other mature model, like code ChaMoonMoon do in the [main function] do. [developer manual.py] contain the variables name and variables definitions but not so complete yet, untill now, I just spend over 3 days to done this job, so you can find some mistakes in the whole code (sorry fot this). ChaMoonMoon hope users can feedback the mistakes and of course if necessary, ChaMoonMoon will help users to fix their problems as soon as possible.
+Both [calc.py] and [fuc.py] are include some processess functions, [Pmodel.py] is the P-model whole workflow and ChaMoonMoon capsule it as a fuction, so you can use this function as an isolate equation in any other mature model, like code ChaMoonMoon do in the [main function] do. [developer manual.py] contain the variables name and variables definitions but not so complete yet, untill now, I just spend around 3 days to finish this job, so you might find some mistakes in the whole code (sorry for this). ChaMoonMoon hope users can feedback the mistakes and of course if necessary, ChaMoonMoon will help users to fix their problems as soon as possible.
 More important is that, this version of P-model only supprot the number calculation but not ARRAY and MATRIX!
 Thank you, ChaMoonMoon really hope this code can help you!
 
